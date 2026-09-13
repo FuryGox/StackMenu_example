@@ -1,5 +1,8 @@
 {
-	"id": "example_mod",
-	"name": "Example Mod",
-	"version": "0.0.1"
+	"id": "stack_menu_example_mod",
+	"name": "stack_menu_example Mod",
+	"version": "0.0.1",
+	"dependencies": [
+		"stack_menu_mod"
+	]
 }

@@ -70,4 +70,11 @@
       <Private>False</Private>
     </Reference>
   </ItemGroup>
+  <!-- StackMenuMod Reference -->
+  <ItemGroup>
+    <Reference Include="StackMenuMod">
+      <HintPath>C:/Users/furyg/AppData/LocalLow/sokpop/Stacklands/Mods/stack_menu_mod/StackMenuMod.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
 </Project>
